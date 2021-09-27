@@ -1,8 +1,3 @@
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
-
-@DisplayName("Classe para teste de conversão de unidades")
 class ContaCorrente {
     private float limite;
     private float saldo;
