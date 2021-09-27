@@ -5,3 +5,5 @@
 (TesteExcecoes = Exercicio 1)
 
 (ContaCorrente/TesteContaCorrente = Exercicio 2)
+
+(Cliente/TesteCliente = Exercicio 3)
