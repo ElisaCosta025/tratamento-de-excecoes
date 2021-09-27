@@ -5,6 +5,8 @@ IllegalArgumentException é uma excessão que ocorre quando um método é chamad
 NumberFormatException é um tipo de exceção que ocorre quando se tenta passar uma variável string para um tipo numérico, mas esta string possui caracteres não-numéricos/o formato certo de um int/double/long etc.
 
 */
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 class Test_Excecoes {
 
